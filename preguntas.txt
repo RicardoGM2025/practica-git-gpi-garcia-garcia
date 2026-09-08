@@ -1,0 +1,6 @@
+CATEGORIA: Gestion de Proyectos
+Pregunta 1: ¿cual es la duraciin maxima recomendada de un daily scrum?
+A) 30 minutos
+B) 15 minutos
+C) 1 hora
+D) Lo que decida el Product Owner
